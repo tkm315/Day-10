@@ -86,9 +86,15 @@ Movies with the same time length
 put alias name next to the table name and use it
 
 
+CROSS JOIN
+-------
 
+![image](https://github.com/user-attachments/assets/78d24bde-0eb2-4e70-8087-c74549a4f82c)
 
+NATURAL JOIN
+------------
 
+Both tables have the same column so you can use the NATURAL JOIN to join these tables
 
 
 
