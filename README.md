@@ -96,9 +96,23 @@ NATURAL JOIN
 
 Both tables have the same column so you can use the NATURAL JOIN to join these tables
 
+GROUP BY
+----------
 
+Each customer has one or more payments. 
+The GROUP BY clause removes duplicate values in the customer_id column and returns distinct customer ids.
+In this example, the GROUP BY clause works like the DISTINCT operator.
 
+SUM() & COUNT()
 
+HAVING
+-------
+
+SELECT * FROM table GROUP BY col HAVING condition  ORDER BY col ;
+
+![photo16703423395](https://github.com/user-attachments/assets/2b2d6893-2298-4ffd-8947-ce94f4def14b)
+
+![photo16703409383](https://github.com/user-attachments/assets/d586cc03-c724-4407-9e64-3027e36e8917)
 
 
 
