@@ -76,5 +76,36 @@ SUMMARY
 
 ![image](https://github.com/user-attachments/assets/d871c91b-6a59-4d2c-a9a2-0cb79ae506c4)
 
+Table Aliases
+------------
+
+Movies with the same time length
+
+![image](https://github.com/user-attachments/assets/4ac1b529-fc13-49ac-89d4-3db007902df7)
+
+put alias name next to the table name and use it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
